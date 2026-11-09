@@ -234,6 +234,9 @@ scikit-learn
 sentence-transformers
 wordcloud
 ```
+These packages can be installed using the requirements.txt file.
+
+For reproducible results, package versions can be pinned after testing the project environment.
 
 ## ⚠️ Limitations
 
